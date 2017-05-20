@@ -4,6 +4,7 @@ speaker: David Wolever
 time: Saturday 11:30 am - 12:00 pm  
 [description](https://us.pycon.org/2017/schedule/presentation/309/)  
 [question](http://stackoverflow.com/questions/28885132/why-is-x-in-x-faster-than-x-x/28885213#28885213)  
+[slides and code](https://github.com/PyCon/2017-slides/tree/master/David%20Wolever%20-%20When%20The%20Abys%20Gazes%20Back)
 
 ```
 nan = float("nan")
