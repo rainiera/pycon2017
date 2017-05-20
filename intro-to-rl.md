@@ -2,7 +2,7 @@
 
 speaker: Jessica Forde  
 time: Saturday 1:40 pm - 2:25 pm  
-[description](https://us.pycon.org/2017/schedule/presentation/708/) 
+[description](https://us.pycon.org/2017/schedule/presentation/708/)  
 [code](https://github.com/jzf2101/intro_rl)
 
 **Intro**
