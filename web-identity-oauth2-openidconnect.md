@@ -1,9 +1,9 @@
 ## Web identity: OAuth2 and OpenIDConnect
 
-speaker: Brendan McCollam
-time: Friday 12:10 am - 12:40 pm
-[description](https://us.pycon.org/2017/schedule/presentation/276/)
-[slides and code](http://brendan.mccoll.am/pycon2017/)
+speaker: Brendan McCollam  
+time: Friday 12:10 am - 12:40 pm  
+[description](https://us.pycon.org/2017/schedule/presentation/276/)  
+[slides and code](http://brendan.mccoll.am/pycon2017/)  
 
 - Web Identity (avoid pedantics - OAuth, SSO, etc.)
 

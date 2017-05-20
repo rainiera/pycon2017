@@ -1,10 +1,10 @@
 ## Immutable Programming - Writing Functional Python
 
-speaker: Calen Pennington
-time: Friday 11:30 am - 12:00 pm
-[description](https://us.pycon.org/2017/schedule/presentation/729/)
-[code](https://github.com/cpennington/pycon-2017-immutable-programming)
-[presentation](http://vengefulpickle.com/pycon-2017-immutable-programming/#/)
+speaker: Calen Pennington  
+time: Friday 11:30 am - 12:00 pm  
+[description](https://us.pycon.org/2017/schedule/presentation/729/)  
+[code](https://github.com/cpennington/pycon-2017-immutable-programming)  
+[presentation](http://vengefulpickle.com/pycon-2017-immutable-programming/#/)  
 
 - edX
 

@@ -1,16 +1,15 @@
 ## Snakes on a Hyperplane: Python Machine Learning in Production
 
-speaker: Jessica Lundin
-time: Friday 5:10 pm - 5:40 pm 
-[description](https://us.pycon.org/2017/schedule/presentation/673/)
-[slides]()
+speaker: Jessica Lundin  
+time: Friday 5:10 pm - 5:40 pm  
+[description](https://us.pycon.org/2017/schedule/presentation/673/)  
 
 - Machine Learning Manager at Microsoft Research
 
-- Production data won't be the same as pre-production training data
 
 **model performance: unknown production distribution**
 
+- Production data won't be the same as pre-production training data
 - techniques for suspected distribution differences between preproduction and production:
     - visualization (histograms, pairplots)
     - clustering (unsupervised techniques on top of supervised)
